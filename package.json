@@ -1,0 +1,15 @@
+{
+  "name": "csvtodynamodbscript",
+  "version": "1.0.0",
+  "description": "Script to import csv file to a DynamoDB table",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Golias",
+  "license": "ISC",
+  "dependencies": {
+    "@types/csv-parse": "^1.1.11"
+  }
+}
